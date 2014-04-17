@@ -1,1 +1,4 @@
 Hello world!
+This Second Beta Test is going quite well. 
+I have uploaded and checked out (downloaded) all the files in my repositories from 2 different machines 
+on two different closed networks.
